@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Pete Wong"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he"
   bio              : "An algorithm engineer at Tokfinity, focusing on machine learning and AI applications."
   location         : "Beijing, China"
   employer         : "Tokfinity"
