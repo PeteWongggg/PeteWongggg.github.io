@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Pete Wong"
-  pronouns         : "he"
+  pronouns         : # URL
   bio              : "An algorithm engineer at Tokfinity, focusing on machine learning and AI applications."
   location         : "Beijing, China"
   employer         : "Tokfinity"
